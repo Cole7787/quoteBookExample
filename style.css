@@ -1,0 +1,25 @@
+.quoteSection {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  overflow: scroll;
+  box-shadow: 10px 10px 5px grey;
+  border-radius: 10px;
+
+
+}
+
+.quotesSection {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  width: 80vw;
+  justify-content: space-between;
+  border-radius: 10px;
+  padding: 10px;
+}
+img {
+  height: 3vh;
+  width: 3vh;
+}
